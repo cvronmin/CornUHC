@@ -1,0 +1,6 @@
+world:
+  name: world
+  type: normal
+arena:
+  base:
+  height: 2

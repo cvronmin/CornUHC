@@ -1,0 +1,19 @@
+name: Plugin for Corn UHC
+main: io.github.cvronmin.uhc.CornUHC
+version: 1.0
+commands:
+  requestpvp:
+    description: to request player to join pvp
+    usage: /requestpvp <Player>
+  pvpyes:
+    description: to accept the request of joining pvp
+    usage: /pvpyes
+  pvpno:
+    description: to reject the request of joining pvp
+    usage: /pvpno
+  parenaset:
+    description: to set PVP Arena's Base
+    usage: /parenaset <x> <y> <z>
+  parenado:
+    description: to set PVP Arena's Base
+    usage: /parenado
